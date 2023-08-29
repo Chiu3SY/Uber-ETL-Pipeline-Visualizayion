@@ -38,4 +38,4 @@ More info about dataset can be found here:
 <img src="data_model.jpeg">
 
 ## Dashboard Demo
-<img src=''>
+<img src='uber_dashboard_demo.png'>
